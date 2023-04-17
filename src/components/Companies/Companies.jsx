@@ -3,8 +3,8 @@ import './Companies.css'
 
 function Companies() {
   return (
-    <section className="c-wrapper">
-        <div className="paddings innerWidth flexCenter c-container">
+    <section className="com-wrapper">
+        <div className="paddings innerWidth flexCenter com-container">
             <img src="./prologis.png" alt="" />
             <img src="./tower.png" alt="" />
             <img src="./equinix.png" alt="" />

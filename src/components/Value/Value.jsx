@@ -15,7 +15,7 @@ import data from '../../utils/accordion'
 function Value() {
   return (
     <section className='v-wrapper'>
-        <div className="paddings innerWQidth flexCenter v-container">
+        <div className="paddings innerWidth flexCenter v-container">
             
             {/* left side */}
             <div className="v-left">
