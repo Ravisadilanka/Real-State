@@ -13,3 +13,13 @@
 .f-menu{
     gap: 1.5rem;
 }
+
+@media (max-width: 768px) {
+    .f-container{
+        justify-content: center;
+    }
+
+    .f-container div{
+        align-items: center;
+    }
+}
